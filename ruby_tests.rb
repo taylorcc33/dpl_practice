@@ -190,3 +190,11 @@ favorite_places = [
 ]
 
 
+x = 2
+y = 3
+
+def add(num1, num2)
+  return num1 + num2
+end
+
+puts add(x, y)
